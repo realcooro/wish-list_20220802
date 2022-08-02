@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>test</description>
+        <description>test2</description>
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
@@ -14,13 +14,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-08-02 05:58:26</sys_created_on>
         <sys_id>fea0dab197495910618c3d5e6253af8a</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>x_snc_wish_list_20.user</sys_name>
         <sys_package display_value="Wish List_20220802" source="x_snc_wish_list_20">9e801af597495910618c3d5e6253af19</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List_20220802">9e801af597495910618c3d5e6253af19</sys_scope>
         <sys_update_name>sys_user_role_fea0dab197495910618c3d5e6253af8a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-08-02 06:24:08</sys_updated_on>
+        <sys_updated_on>2022-08-02 06:30:09</sys_updated_on>
     </sys_user_role>
 </record_update>
